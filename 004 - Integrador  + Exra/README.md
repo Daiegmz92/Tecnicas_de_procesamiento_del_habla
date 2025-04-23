@@ -1,6 +1,8 @@
 🧠 Análisis de Noticias sobre IA
 Este proyecto extrae noticias de La Nación Web, las analiza con NLP y envía un resumen por correo.
 🚀 Funciones principales:
+
+
 ✅ Scraping: Obtiene los últimos artículos sobre inteligencia artificial.
 ✅ Procesamiento NLP: Usa spaCy para estructurar el texto.
 ✅ Análisis de palabras: Genera una nube de palabras y estadísticas.
